@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel" alt="mohamedsakeel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@moh_sakeel" target="blank"><img src="https://img.shields.io/twitter/follow/@moh_sakeel?logo=twitter&style=for-the-badge" alt="@moh_sakeel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/moh_sakeel" target="blank"><img src="https://img.shields.io/twitter/follow/moh_sakeel?logo=twitter&style=for-the-badge" alt="@moh_sakeel" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud Solutions**
 
