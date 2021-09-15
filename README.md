@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="mohamedsakeel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="mohamedsakeel" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud solutions**
 
