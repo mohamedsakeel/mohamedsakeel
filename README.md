@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sakeel</h1>
 <h3 align="center">I am currently working as a 🖥SysAdmin in an Educational Institute and i am following Bachelors of Software Engineering (Second year). And passionate in learning and getting hands on experience on new technologies.</h3>
 
-<p [![trophy](https://github-profile-trophy.vercel.app/?username=mohamedsakeel)](https://github.com/ryo-ma/github-profile-trophy) />
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel" alt="mohamedsakeel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="mohamedsakeel" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud solutions**
 
