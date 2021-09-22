@@ -1,0 +1,88 @@
+@keyframes zoomInOut {
+  0%,
+  100% {
+    transform: scale(0.5);
+  }
+  50% {
+    transform: scale(1);
+  }
+}
+
+@keyframes bounceTop {
+  0%,
+  100% {
+    transform: translateY(-50px);
+  }
+  50% {
+    transform: translateY(0px);
+  }
+}
+.bg-circles {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  height: 100%;
+  max-width: 1200px;
+  width: calc(100% - 30px);
+  transform: translateX(-50%);
+
+  div {
+    position: absolute;
+    border-radius: 50%;
+  }
+
+  .circle-1 {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    background-color: var(--blue);
+    left: 5%;
+    top: 10%;
+    opacity: 0.3;
+    animation: zoomInOut 8s linear infinite;
+  }
+
+  .circle-2 {
+    height: 80px;
+    width: 80px;
+    background-color: var(--main-color);
+    left: 40%;
+    top: 57%;
+    opacity: 0.4;
+    animation: bounceTop 5s ease-in-out infinite;
+  }
+
+  .circle-3 {
+    height: 120px;
+    width: 120px;
+    background-color: var(--white);
+    bottom: 15%;
+    right: -60px;
+    opacity: 0.6;
+  }
+
+  .circle-4 {
+    height: 50px;
+    width: 50px;
+    background-color: var(--orange);
+    top: 80%;
+    left: -30px;
+    opacity: 0.6;
+  }
+
+  .c1 {
+    width: 50px;
+    height: 50px;
+    background-color: var(--blue);
+    top: 80% !important;
+    left: 20px !important;
+  }
+
+  .c2 {
+    width: 80px;
+    height: 80px;
+    background-color: var(--orange);
+    top: 20% !important;
+    left: 45% !important;
+  }
+}
