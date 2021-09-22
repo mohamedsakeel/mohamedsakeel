@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Nexus Project](https://github.com/users/mohamedsakeel/projects/1)
 
-- 👨‍💻 All of my projects are available at [https://mohamedsakeel.github.io/mohamed-sakeel-/](https://mohamedsakeel.github.io/mohamed-sakeel-/)
+- 👨‍💻 All of my projects are available at [https://mohamedsakeel.github.io/](https://mohamedsakeel.github.io)
 
 - 📝 I regularly write articles on [https://www.programtactics.tech/](https://www.programtactics.tech/)
 
