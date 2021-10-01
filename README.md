@@ -31,10 +31,8 @@
 <a href="https://stackoverflow.com/users/mohamed-sakeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed-sakeel" height="30" width="40" /></a>
 </p>
 
-<details>
   <summary><b>GitHub Statistics</b></summary>
   <div>
     <img height="135px" src="https://github-readme-stats.vercel.app/api?username=mohamedsakeel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
     <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsakeel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
   </div>
-</details>
