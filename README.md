@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Web Development, Desktop App Development**
 
-- 📫 How to reach me **mhmdsakeel123@gmail**
+- 📫 How to reach me **mhmdsakeel123@gmail.com**
 
 - 📄 Know about my experiences [https://mohamedsakeel.github.io/](https://mohamedsakeel.github.io/)
 
