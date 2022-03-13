@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sakeel</h1>
-<h3 align="center">I am currently working as a 🖥SysAdmin in an Educational Institute and i am following Bachelors of Software Engineering (Second year). And passionate in learning and getting hands on experience on new technologies.</h3>
+<h3 align="center">I am currently working as a 🖥SysAdmin in an Educational Institute and i am following Bachelors of Software Engineering (Third year). And passionate in learning and getting hands on experience on new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 
