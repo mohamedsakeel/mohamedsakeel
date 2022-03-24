@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mhmdsakeel123@gmail.com**
 
-- 📄 Know about my experiences [https://mohamedsakeel.github.io/](https://mohamedsakeel.github.io/)
+- 📄 Know about my experiences [https://mohamedsakeel.github.io/#about](https://mohamedsakeel.github.io/#about)
 
 - ⚡ Fun fact **On average, people read 10% slower from a screen than from paper.**
 
