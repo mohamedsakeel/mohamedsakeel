@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sakeel</h1>
-<h3 align="center">I am from Negombo, Srilanka where I worked as a Junior C# Developer At Skynis Software Solutions. I have 2 years of experience with c# and web development with a focus on Desktop Applications, API, and databases. In my spare time, I enjoy photography, traveling, and gaming.</h3>
+<h3 align="center">I am from Dehiwala, Srilanka where I am working as Software Engineer Intern @ Virtusa. I have 2 years of experience with c# and web development with a focus on Desktop Applications, API, and databases. In my spare time, I enjoy photography, traveling, and gaming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 
