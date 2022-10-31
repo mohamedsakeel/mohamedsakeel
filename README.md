@@ -1,12 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+ ### <div align="center">I'm Sakeel, a full-time .NET developer 👨‍💻 working @ Virtusa  🚀</div>  
+ 
+ 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel&column=7&theme=gruvbox&no-frame=true"/>
 </a>
 
-### <div align="center">I'm Sakeel, a full-time .NET developer 👨‍💻 working @ Virtusa  🚀</div>  
+
   
 
 - 🔭 I’m currently working on [Nexus Accounts](https://github.com/users/mohamedsakeel/projects/1)  
