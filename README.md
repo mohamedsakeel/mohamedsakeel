@@ -2,10 +2,10 @@
  
  
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel&column=7&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mohamedsakeel&column=7&theme=gruvbox&no-frame=true" align="center"/>
 </a>
 
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohamedsakeel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
   
 
 - 🔭 I’m currently working on [Nexus Accounts](https://github.com/users/mohamedsakeel/projects/1)  
@@ -107,22 +107,10 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
+ 
 <br/>  
-
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohamedsakeel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -138,4 +126,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
