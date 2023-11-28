@@ -46,7 +46,15 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohamedsakeel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohamedsakeel&show_icons=true&count_private=true&hide_border=true" align="center" />
+<br/>
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsakeel&layout=compact&theme=vision-friendly-dark)](https://github.com/mohamedsakeel/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedsakeel&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
 
 <br/>  
 
