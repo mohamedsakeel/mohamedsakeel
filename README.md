@@ -1,4 +1,4 @@
- ### <div align="center">I'm Sakeel, a full-time .NET developer 👨‍💻 working @ Virtusa  🚀</div>  
+ ### <div align="center">I'm Sakeel, a full-time Associate Software Engineer 👨‍💻 working @ Hayleys BSI  🚀</div>  
  
  <div align="center">
  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
