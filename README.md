@@ -8,10 +8,7 @@
 <br/>
   <div align="left">
 <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&&style=flat-square" align="center" />
-</div> 
-
-- 🔭 I’m currently working on [Nexus Accounts](https://github.com/users/mohamedsakeel/projects/1)  
-  
+</div>
 
 - 🌱 I’m currently learning Micro-Services and Azure Cloud  
   
