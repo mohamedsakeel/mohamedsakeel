@@ -47,6 +47,8 @@
 <br/>
 <br/>
 
+[![Sakeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedsakeel)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Languages](https://github-stats-nine-rose.vercel.app/api/top-langs/?username=mohamedsakeel&layout=compact&theme=vision-friendly-dark)](https://github.com/mohamedsakeel/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedsakeel&theme=dark&background=000000)](https://git.io/streak-stats)
